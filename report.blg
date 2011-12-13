@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: report.aux
+The style file: apacite.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: my_ref.bib
+apacite.bst [2009/03/01 v4.05 APA bibliography style]
+Warning--No address in Sanders10
+You've used 4 entries,
+            6361 wiz_defined-function locations,
+            1205 strings with 10141 characters,
+and the built_in function-call counts, 6378 in all, are:
+= -- 776
+> -- 57
+< -- 257
++ -- 267
+- -- 8
+* -- 392
+:= -- 1136
+add.period$ -- 16
+call.type$ -- 4
+change.case$ -- 20
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 184
+empty$ -- 305
+format.name$ -- 94
+if$ -- 1260
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 0
+newline$ -- 97
+num.names$ -- 32
+pop$ -- 157
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 388
+stack$ -- 0
+substring$ -- 303
+swap$ -- 111
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 320
+warning$ -- 1
+while$ -- 31
+width$ -- 0
+write$ -- 119
+(There was 1 warning)

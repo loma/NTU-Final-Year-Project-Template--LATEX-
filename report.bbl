@@ -1,0 +1,101 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{%
+Graham%
+, Knuth%
+\BCBL{}\ \BBA{} Patashnik%
+}{%
+Graham%
+\ \protect\BOthers{.}}{%
+{\protect\APACyear{1989}}%
+}]{%
+ConcreteMath}%
+\APACinsertmetastar{%
+ConcreteMath}%
+Graham, R.%
+, Knuth, D.%
+\BCBL{}\ \BBA{} Patashnik, O.%
+%
+\unskip\
+\newblock
+\APACrefYear{1989}.
+\newblock
+\APACrefbtitle{Concrete mathematics}{Concrete mathematics}.
+\newblock
+\APACaddressPublisher{Reading, MA}{Addison-Wesley}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Kirk%
+\ \BBA{} Hwu%
+}{%
+Kirk%
+\ \BBA{} Hwu%
+}{%
+{\protect\APACyear{2010}}%
+}]{%
+Kirk10}%
+\APACinsertmetastar{%
+Kirk10}%
+Kirk, D\BPBI B.%
+\BCBT{}\ \BBA{} Hwu, W\BHBI m\BPBI W.%
+%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\newblock
+\APACrefbtitle{Programming Massively Parallel Processors: A Hands-on
+  Approach}{Programming massively parallel processors: A hands-on approach}\
+  (\PrintOrdinal{1st}\ \BEd).
+\newblock
+\APACaddressPublisher{San Francisco, CA, USA}{Morgan Kaufmann Publishers Inc.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Knuth%
+}{%
+Knuth%
+}{%
+{\protect\APACyear{1992}}%
+}]{%
+Knuth92}%
+\APACinsertmetastar{%
+Knuth92}%
+Knuth, D.%
+%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1992}{}{}.
+\newblock
+\BBOQ{}\APACrefatitle{Two notes on notation}{Two notes on notation}.\BBCQ{}
+\newblock
+\APACjournalVolNumPages{Amer. Math. Monthly}{99}{}{403--422}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem[\protect\citeauthoryear{%
+Sanders%
+\ \BBA{} Kandrot%
+}{%
+Sanders%
+\ \BBA{} Kandrot%
+}{%
+{\protect\APACyear{2010}}%
+}]{%
+Sanders10}%
+\APACinsertmetastar{%
+Sanders10}%
+Sanders, J.%
+\BCBT{}\ \BBA{} Kandrot, E.%
+%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\newblock
+\APACrefbtitle{CUDA by Example: An Introduction to General-Purpose GPU
+  Programming}{Cuda by example: An introduction to general-purpose gpu
+  programming}\ (\PrintOrdinal{1st}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Addison-Wesley Professional}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

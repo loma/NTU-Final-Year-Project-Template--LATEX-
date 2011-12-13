@@ -1,0 +1,62 @@
+\documentclass[pdftex,12pt,a4paper]{report}
+
+\usepackage[top=3cm, bottom=3cm, left=3.5cm, right=3cm]{geometry}
+
+% graphics images
+\usepackage[pdftex]{graphicx}
+
+% 1.5 line spacing
+\usepackage{setspace}
+\onehalfspacing
+
+% maths symbols
+\usepackage{amsmath}
+
+% table package
+\usepackage{multirow}
+
+% citation style
+\usepackage{apacite}
+
+\begin{document}
+
+% cover
+\input{cover_report.tex}
+
+% title page
+\input{title_report.tex}
+
+% abstract
+\setcounter{page}{1}
+\pagenumbering{roman}
+\input{abstract.tex}
+
+% acknowledgement
+\input{acknowledgements.tex}
+
+% table of content
+\tableofcontents
+\addcontentsline{toc}{chapter}{Contents}
+
+% list of tables
+\listoftables
+\addcontentsline{toc}{chapter}{List of Tables}
+
+% list of figures
+\listoffigures
+\addcontentsline{toc}{chapter}{List of Figures}
+
+% intro chapter
+\cleardoublepage
+\pagenumbering{arabic}
+\input{intro.tex}
+
+% text chapter
+\citeA{Knuth92}
+
+% references
+\bibliographystyle{apacite}
+\bibliography{my_ref}
+
+% appendix
+\end{document}
